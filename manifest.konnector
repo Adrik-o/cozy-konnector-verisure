@@ -22,7 +22,7 @@
         "advanced": true,
         "isRequired": false
       }
-    }?
+    }
   },
 
   "folders": [{"defaultDir": "$administrative/$konnector/$account"}],
